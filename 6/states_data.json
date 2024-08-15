@@ -1,0 +1,252 @@
+[
+    {
+        "State": "Alabama",
+        "Capital": "Montgomery",
+        "Population": 5000000
+    },
+    {
+        "State": "Alaska",
+        "Capital": "Juneau",
+        "Population": 731000
+    },
+    {
+        "State": "Arizona",
+        "Capital": "Phoenix",
+        "Population": 7300000
+    },
+    {
+        "State": "Arkansas",
+        "Capital": "Little Rock",
+        "Population": 3000000
+    },
+    {
+        "State": "California",
+        "Capital": "Sacramento",
+        "Population": 39500000
+    },
+    {
+        "State": "Colorado",
+        "Capital": "Denver",
+        "Population": 5800000
+    },
+    {
+        "State": "Connecticut",
+        "Capital": "Hartford",
+        "Population": 3600000
+    },
+    {
+        "State": "Delaware",
+        "Capital": "Dover",
+        "Population": 1000000
+    },
+    {
+        "State": "Florida",
+        "Capital": "Tallahassee",
+        "Population": 21500000
+    },
+    {
+        "State": "Georgia",
+        "Capital": "Atlanta",
+        "Population": 10700000
+    },
+    {
+        "State": "Hawaii",
+        "Capital": "Honolulu",
+        "Population": 1400000
+    },
+    {
+        "State": "Idaho",
+        "Capital": "Boise",
+        "Population": 1800000
+    },
+    {
+        "State": "Illinois",
+        "Capital": "Springfield",
+        "Population": 12800000
+    },
+    {
+        "State": "Indiana",
+        "Capital": "Indianapolis",
+        "Population": 6800000
+    },
+    {
+        "State": "Iowa",
+        "Capital": "Des Moines",
+        "Population": 3200000
+    },
+    {
+        "State": "Kansas",
+        "Capital": "Topeka",
+        "Population": 2900000
+    },
+    {
+        "State": "Kentucky",
+        "Capital": "Frankfort",
+        "Population": 4500000
+    },
+    {
+        "State": "Louisiana",
+        "Capital": "Baton Rouge",
+        "Population": 4600000
+    },
+    {
+        "State": "Maine",
+        "Capital": "Augusta",
+        "Population": 1300000
+    },
+    {
+        "State": "Maryland",
+        "Capital": "Annapolis",
+        "Population": 6200000
+    },
+    {
+        "State": "Massachusetts",
+        "Capital": "Boston",
+        "Population": 7000000
+    },
+    {
+        "State": "Michigan",
+        "Capital": "Lansing",
+        "Population": 10000000
+    },
+    {
+        "State": "Minnesota",
+        "Capital": "St. Paul",
+        "Population": 5700000
+    },
+    {
+        "State": "Mississippi",
+        "Capital": "Jackson",
+        "Population": 3000000
+    },
+    {
+        "State": "Missouri",
+        "Capital": "Jefferson City",
+        "Population": 6200000
+    },
+    {
+        "State": "Montana",
+        "Capital": "Helena",
+        "Population": 1100000
+    },
+    {
+        "State": "Nebraska",
+        "Capital": "Lincoln",
+        "Population": 1900000
+    },
+    {
+        "State": "Nevada",
+        "Capital": "Carson City",
+        "Population": 3100000
+    },
+    {
+        "State": "New Hampshire",
+        "Capital": "Concord",
+        "Population": 1400000
+    },
+    {
+        "State": "New Jersey",
+        "Capital": "Trenton",
+        "Population": 9300000
+    },
+    {
+        "State": "New Mexico",
+        "Capital": "Santa Fe",
+        "Population": 2100000
+    },
+    {
+        "State": "New York",
+        "Capital": "Albany",
+        "Population": 20000000
+    },
+    {
+        "State": "North Carolina",
+        "Capital": "Raleigh",
+        "Population": 10500000
+    },
+    {
+        "State": "North Dakota",
+        "Capital": "Bismarck",
+        "Population": 770000
+    },
+    {
+        "State": "Ohio",
+        "Capital": "Columbus",
+        "Population": 11800000
+    },
+    {
+        "State": "Oklahoma",
+        "Capital": "Oklahoma City",
+        "Population": 4000000
+    },
+    {
+        "State": "Oregon",
+        "Capital": "Salem",
+        "Population": 4300000
+    },
+    {
+        "State": "Pennsylvania",
+        "Capital": "Harrisburg",
+        "Population": 13000000
+    },
+    {
+        "State": "Rhode Island",
+        "Capital": "Providence",
+        "Population": 1100000
+    },
+    {
+        "State": "South Carolina",
+        "Capital": "Columbia",
+        "Population": 5100000
+    },
+    {
+        "State": "South Dakota",
+        "Capital": "Pierre",
+        "Population": 900000
+    },
+    {
+        "State": "Tennessee",
+        "Capital": "Nashville",
+        "Population": 6900000
+    },
+    {
+        "State": "Texas",
+        "Capital": "Austin",
+        "Population": 29500000
+    },
+    {
+        "State": "Utah",
+        "Capital": "Salt Lake City",
+        "Population": 3300000
+    },
+    {
+        "State": "Vermont",
+        "Capital": "Montpelier",
+        "Population": 625000
+    },
+    {
+        "State": "Virginia",
+        "Capital": "Richmond",
+        "Population": 8500000
+    },
+    {
+        "State": "Washington",
+        "Capital": "Olympia",
+        "Population": 7800000
+    },
+    {
+        "State": "West Virginia",
+        "Capital": "Charleston",
+        "Population": 1800000
+    },
+    {
+        "State": "Wisconsin",
+        "Capital": "Madison",
+        "Population": 5800000
+    },
+    {
+        "State": "Wyoming",
+        "Capital": "Cheyenne",
+        "Population": 578000
+    }
+]
